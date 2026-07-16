@@ -1,0 +1,6 @@
+{
+  "name": "SembakoMall Indonesia",
+  "description": "Platform modern pengiriman sembako nasional ke seluruh Indonesia. Belanja paket sembako premium untuk keluarga, mahasiswa, anak kos, dan UMKM dengan sistem lacak pesanan dan langganan bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
